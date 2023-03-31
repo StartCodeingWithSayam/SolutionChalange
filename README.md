@@ -1,4 +1,4 @@
-# Solution Challenge 😍
+# Solution Challenge 
 
 ## Introduction
 MindReads is a platform designed to provide book recommendations and resources for mental health and well-being. Our solution utilizes TensorFlow, Angular, and Firebase to offer users a personalized and effective experience. Users can browse books by mental health status, read descriptions, and interact with others in online community rooms.
