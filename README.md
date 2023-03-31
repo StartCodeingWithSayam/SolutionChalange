@@ -6,9 +6,15 @@ MindReads is a platform designed to provide book recommendations and resources f
 ## Technologies Used
 <p align="center">
   <code><img title="Python" height="45" src="https://github.com/StartCodeingWithSayam/photos/blob/master/python.svg"></code>
-  <code><img title="Javascript" height="45" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
   <code><img title="HTML5" height="45" src="https://github.com/StartCodeingWithSayam/photos/blob/master/html.svg"></code>
-  <code><img title="CSS" height="45" src="https://github.com/StartCodeingWithSayam/photos/blob/master/css.svg"></code>
+  <code><img title="Javascript" height="45" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+  <code><img title="Tensorflow" height="45" src="https://github.com/Ishnoor-kaur/SolutionChalange/blob/master/images/tensorflow-icon.svg"></code>
+  <code><img title="Flask" height="45" src="https://github.com/Ishnoor-kaur/SolutionChalange/blob/master/images/pocoo_flask-icon.svg"></code>
+  <code><img title="Google Cloud" height="45" src="https://github.com/Ishnoor-kaur/SolutionChalange/blob/master/images/google_cloud-icon.svg"></code>
+  <code><img title="Firestore" height="45" src="https://github.com/Ishnoor-kaur/SolutionChalange/blob/master/images/firestore-svgrepo-com.svg"></code>
+  <code><img title="Firebase" height="45" src="https://github.com/Ishnoor-kaur/SolutionChalange/blob/master/images/firebase-ar21.svg"></code>
+  <code><img title="Figma" height="45" src="https://github.com/Ishnoor-kaur/SolutionChalange/blob/master/images/figma-icon.svg"></code>
+  <code><img title="Angular" height="45" src="https://github.com/Ishnoor-kaur/SolutionChalange/blob/master/images/angular-icon.svg"></code>
 </p>
 
 - TensorFlow: Used to analyze the user's facial expression through the camera and suggest books based on their current emotional state.
