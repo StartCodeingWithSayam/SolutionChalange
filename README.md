@@ -8,7 +8,7 @@ MindReads is a platform designed to provide book recommendations and resources f
   <code><img title="Python" height="45" src="https://github.com/StartCodeingWithSayam/photos/blob/master/python.svg"></code>
   <code><img title="Javascript" height="45" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
   <code><img title="HTML5" height="45" src="https://github.com/StartCodeingWithSayam/photos/blob/master/html.svg"></code>
-  <code><img title="CSS" height="45" src="https://github.com/StartCodeingWithSayam/photos/blob/master/css.svg"></code>
+  <code><img title="Tensorflow" height="45" src="https://github.com/Ishnoor-kaur/SolutionChalange/blob/master/images/tensorflow-icon.svg"></code>
 </p>
 
 - TensorFlow: Used to analyze the user's facial expression through the camera and suggest books based on their current emotional state.
