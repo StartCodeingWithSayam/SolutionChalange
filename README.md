@@ -33,13 +33,52 @@ MindReads aims to contribute towards improved mental health outcomes for individ
 - Our next steps for the project include expanding our reach to a larger audience through marketing and advertising efforts. We also plan to incorporate additional features, such as a chatbot for immediate support and resources, and to continue gathering data on the impact of our solution.
 - Online community rooms for users to interact with others who share similar experiences.
 
-## 🥷🏻 Authors
-
-- [@Ishnoor kaur](https://github.com/Ishnoor-kaur) [Project Manager] - overseeing all the documentation part and video scripting
-- [@Manas Gupta](https://github.com/cyberbuddy-manas) [Front end developer] - overseeing user interface and experience and used Angular to build the website
-- [@Sayam Sharma](https://github.com/StartCodeingWithSayam) [Back end developer] - overseeing deep learning and backend of the project.
-
-
 ## 🍕 Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+# 🥷🏻  Contributors
+
+<div align="center">
+<table width="100%">
+    <thead>
+    </thead>
+    <tbody>
+    <tr>
+        <th>Name</th>
+        <td width="100" align="center">Ishnoor kaur</td>
+        <td width="100" align="center">Manas Gupta</td>
+        <td width="100" align="center">Sayam Sharma</t
+    </tr>
+    <tr>
+        <th>Position</th>
+        <td width="150" align="center">
+            Project Manager<br>
+        </td>
+        <td width="150" align="center">
+            Frontend<br>
+        </td>
+        <td width="150" align="center">
+            Backend<br>
+    </tr>
+    <tr>
+        <th>GitHub</th>
+        <td width="100" align="center">
+            <a href="https://github.com/Ishnoor-kaur">
+                <img src="http://img.shields.io/badge/Ishnoor--kaur-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/cyberbuddy-manas">
+                <img src="http://img.shields.io/badge/cyberbuddy--manas-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/hyeonjin9819">
+                <img src="http://img.shields.io/badge/StartCodeingWithSayam-green?style=social&logo=github"/>
+            </a>
+        </td>
+     </tr>
+    </tbody>
+</table>
+</div>
