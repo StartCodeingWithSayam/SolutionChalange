@@ -4,7 +4,7 @@
 - [Short explanation](#Short)
 - [Features](#Featues)
 - [Next Steps](#Impact)
-- [Impact](#Next Steps)
+- [Impact](#Next)
 - [Impact](#Impact)
 - [Authors](#Authors)
 - [Screenshots](#Screenshots)
