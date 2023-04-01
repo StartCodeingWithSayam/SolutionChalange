@@ -1,4 +1,13 @@
 # Solution Challenge 
+- [Introduction](#Introduction)
+- [Technologies Used](#Technologies Used)
+- [Short explanation](#Short explanation)
+- [Features](#Featues)
+- [Next Steps](#Impact)
+- [Impact](#Next Steps)
+- [Impact](#Impact)
+- [Authors](#Authors)
+- [Screenshots](#Screenshots)
 
 ## 📖 Introduction
 MindReads is a platform designed to provide book recommendations and resources for mental health and well-being. Our solution utilizes TensorFlow, Angular, and Firebase to offer users a personalized and effective experience. Users can browse books by mental health status, read descriptions, and interact with others in online community rooms.
@@ -16,7 +25,7 @@ MindReads is a platform designed to provide book recommendations and resources f
   <code><img title="Figma" height="45" src="https://github.com/StartCodeingWithSayam/SolutionChalange/blob/master/images/figma-icon.svg"></code>
   <code><img title="Angular" height="45" src="https://github.com/StartCodeingWithSayam/SolutionChalange/blob/master/images/angular-icon.svg"></code>
 </p>
-
+## Short explanation
 - TensorFlow: Used to analyze the user's facial expression through the camera and suggest books based on their current emotional state.
 - Angular: Provides a smooth and user-friendly interface for users to browse and find relevant resources.
 - Firebase: Used to store information about the books, including author and description, and to store images. Firebase's real-time database also allows for seamless data retrieval and storage.
@@ -35,10 +44,9 @@ MindReads aims to contribute towards improved mental health outcomes for individ
 
 ## 🥷🏻 Authors
 
-- [@Ishnoor kaur](https://github.com/Ishnoor-kaur) [Project Manager] - overseeing all the documentation part and video scripting
 - [@Manas Gupta](https://github.com/cyberbuddy-manas) [Front end developer] - overseeing user interface and experience and used Angular to build the website
 - [@Sayam Sharma](https://github.com/StartCodeingWithSayam) [Back end developer] - overseeing deep learning and backend of the project.
-
+- [@Ishnoor kaur](https://github.com/Ishnoor-kaur) [Project Manager] - overseeing all the documentation part and video scripting
 
 ## 🍕 Screenshots
 
