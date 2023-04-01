@@ -1,7 +1,7 @@
 # Solution Challenge 
 - [Introduction](#Introduction)
-- [Technologies Used](#Technologies Used)
-- [Short explanation](#Short explanation)
+- [Technologies Used](#Technologies)
+- [Short explanation](#Short)
 - [Features](#Featues)
 - [Next Steps](#Impact)
 - [Impact](#Next Steps)
